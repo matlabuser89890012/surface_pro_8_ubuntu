@@ -1,1 +1,1 @@
-# surface_pro_8_ubuntu
+# ubuntu
